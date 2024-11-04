@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ice-Titan
+- 👋 Hi, I’m @Guilded-Hare-Studios
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Game Development
